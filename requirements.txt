@@ -5,4 +5,7 @@ numpy
 matplotlib
 seaborn
 yfinance
+scipy
+scikit-learn
+statsmodels
 
